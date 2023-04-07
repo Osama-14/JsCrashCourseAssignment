@@ -106,7 +106,7 @@ for (let i = 1; i <= 5; i++) {
   }
 
 
-//FEVENTH POINT 
+//SEVENTH POINT 
 
 const marks = [];
 for (let i = 1; i <= 1; i++) {
